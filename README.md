@@ -5,9 +5,9 @@
 - I love the science of using Data to gather insights, solve problems and make human lives convenient!
 - Learning new things/Concepts about computers fascinates me.
 - I also like to share my learnings and knowledge [through blog posts](https://nayakvinayak95.medium.com/) to facilitate an easy welcome to newcomers so they don't have to face the problems I went through when developing projects.
-- Besides these, I am an otaku, an occasional reader and a big Mokoto Shinkai fan!
+- Besides these, I am an otaku, an occasional reader and a big Studio Ghibli fan!
 
-## Connect with me:
+## Connect with me
 
 [<img align="left" alt="ElisonSherton | Twitter" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />][twitter]
 [<img align="left" alt="Vinayak | LinkedIn" width="45px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
