@@ -36,6 +36,11 @@
 
 ## Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Author Identification using Naive Bayes Algorithm — Deployment with Flask & Dockers](https://medium.com/swlh/author-identification-using-naive-bayes-algorithm-deployment-with-flask-dockers-1a1484f4fd07?source=rss-9b10ad08afc7------2)
+- [Author Identification with Naive Bayes Algorithm](https://medium.com/swlh/author-identification-with-naive-bayes-algorithm-2-8b43854c1429?source=rss-9b10ad08afc7------2)
+- [Author Identification using Naive Bayes Algorithm](https://medium.com/swlh/author-identification-using-naive-bayes-algorithm-1-abeeb88eb862?source=rss-9b10ad08afc7------2)
+- [Semantic Image Segmentation with DeepLabv3-pytorch](https://towardsdatascience.com/semantic-image-segmentation-with-deeplabv3-pytorch-989319a9a4fb?source=rss-9b10ad08afc7------2)
+- [PyTorch LSTMs for time series forecasting of Indian Stocks](https://medium.com/analytics-vidhya/pytorch-lstms-for-time-series-forecasting-of-indian-stocks-8a49157da8b9?source=rss-9b10ad08afc7------2)
 <!-- BLOG-POST-LIST:END -->
 
 [twitter]: https://twitter.com/ElisonSherton
