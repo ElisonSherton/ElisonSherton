@@ -23,8 +23,8 @@
 <img align="left" alt="pytorch" width="45px" src="https://pbs.twimg.com/profile_images/1306686545974362113/JYq2LGIA_400x400.jpg" />
 <img align="left" alt="numpy" width="45px" src="https://numpy.org/images/logos/numpy.svg" />
 <img align="left" alt="pandas" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" />
-<img align="left" alt="scikit-learn" width="45px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
-<img align="left" alt="Flask" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="scikit-learn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Flask" width="45px" src="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" />
 <img align="left" alt="Jupyter" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
