@@ -36,11 +36,11 @@
 
 ## Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [W&B Fastbook Sessions Week 4 Summary](https://towardsdatascience.com/w-b-fastbook-sessions-week-4-summary-726ab50c2fdb?source=rss-9b10ad08afc7------2)
 - [Python makes spreadsheets Excel’lent](https://towardsdatascience.com/python-makes-spreadsheets-excellent-f48ce0c648e3?source=rss-9b10ad08afc7------2)
 - [Who am I?](https://medium.com/analytics-vidhya/who-am-i-511d4146d035?source=rss-9b10ad08afc7------2)
 - [Pagination in streamlit](https://towardsdatascience.com/pagination-in-streamlit-82b62de9f62b?source=rss-9b10ad08afc7------2)
 - [Author Identification using Naive Bayes Algorithm — Deployment with Flask & Dockers](https://medium.com/analytics-vidhya/author-identification-using-naive-bayes-algorithm-deployment-with-flask-dockers-1a1484f4fd07?source=rss-9b10ad08afc7------2)
-- [Author Identification with Naive Bayes Algorithm](https://medium.com/analytics-vidhya/author-identification-with-naive-bayes-algorithm-2-8b43854c1429?source=rss-9b10ad08afc7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
