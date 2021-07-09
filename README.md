@@ -37,7 +37,7 @@
 ## Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [W&B Fastbook Sessions Week 3 Summary](https://nayakvinayak95.medium.com/w-b-fastbook-sessions-week-3-summary-9cb931d830ea?source=rss-9b10ad08afc7------2)
-- [W&B Fastbook Sessions Week 4 Summary](https://towardsdatascience.com/w-b-fastbook-sessions-week-4-summary-726ab50c2fdb?source=rss-9b10ad08afc7------2)
+- [W&B Fastbook Sessions Week 4 Summary](https://nayakvinayak95.medium.com/w-b-fastbook-sessions-week-4-summary-726ab50c2fdb?source=rss-9b10ad08afc7------2)
 - [Python makes spreadsheets Excel’lent](https://towardsdatascience.com/python-makes-spreadsheets-excellent-f48ce0c648e3?source=rss-9b10ad08afc7------2)
 - [Who am I?](https://medium.com/analytics-vidhya/who-am-i-511d4146d035?source=rss-9b10ad08afc7------2)
 - [Pagination in streamlit](https://towardsdatascience.com/pagination-in-streamlit-82b62de9f62b?source=rss-9b10ad08afc7------2)
