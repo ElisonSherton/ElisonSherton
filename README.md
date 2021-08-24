@@ -36,7 +36,7 @@
 
 ## Medium Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-label Classification in fastai using spreadsheets](https://towardsdatascience.com/multi-label-classification-in-fastai-using-spreadsheets-25ae570c8ff9?source=rss-9b10ad08afc7------2)
+- [Multi-Label Classification in fast.ai Using Spreadsheets](https://towardsdatascience.com/multi-label-classification-in-fastai-using-spreadsheets-25ae570c8ff9?source=rss-9b10ad08afc7------2)
 - [W&B Fastbook Sessions Week 3 Summary](https://nayakvinayak95.medium.com/w-b-fastbook-sessions-week-3-summary-9cb931d830ea?source=rss-9b10ad08afc7------2)
 - [W&B Fastbook Sessions Week 4 Summary](https://nayakvinayak95.medium.com/w-b-fastbook-sessions-week-4-summary-726ab50c2fdb?source=rss-9b10ad08afc7------2)
 - [Python makes spreadsheets Excel’lent](https://towardsdatascience.com/python-makes-spreadsheets-excellent-f48ce0c648e3?source=rss-9b10ad08afc7------2)
