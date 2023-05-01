@@ -1,18 +1,17 @@
 # Hello World, Vinayak Here.
 
-## I am a Mechanical Engineer, Developer, Curious Human & Lifelong Learner.
+## I am a Data Scientist and a Curious Human & Lifelong Learner.
 
 - I love the science of using Data to gather insights, solve problems and make human lives convenient!
-- Learning new things/Concepts about computers fascinates me.
-- I also like to share my learnings and knowledge [through blog posts](https://nayakvinayak95.medium.com/) to facilitate an easy welcome to newcomers so they don't have to face the problems I went through when developing projects.
-- Besides these, I am an otaku, an occasional reader and a big Studio Ghibli fan!
+- Learning about the science of computing, data, simulations fascinates me.
+- I also like to share my learnings and knowledge [through blog posts](https://elisonsherton.github.io/archive.html) to facilitate an easy welcome to newcomers so they don't have to face the problems I went through when building new things.
+- Besides these, I love anime, mythology & spirituality.
 
 ## Connect with me
 
 [<img align="left" alt="ElisonSherton | Twitter" width="45px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />][twitter]
 [<img align="left" alt="Vinayak | LinkedIn" width="45px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=2159024400&v=beta&t=CtsDFVp0TAdwyg73A8F82MohzKpAQy-pUGA13atPG6A" />][linkedin]
-[<img align="left" alt="Vinayak | Medium" width="45px" src="https://moddroid.com/wp-content/uploads/2020/08/Medium.png" />][medium]
-[<img align="left" alt="Vinayak | Quora" width="45px" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" />][quora]
+[<img align="left" alt="Vinayak | Medium" width="45px" src="https://www.svgrepo.com/show/354057/medium-icon.svg"/>][medium]
 
 <br />
 <br />
@@ -22,7 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="pytorch" width="45px" src="https://pbs.twimg.com/profile_images/1306686545974362113/JYq2LGIA_400x400.jpg" />
-<img align="left" alt="numpy" width="45px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="numpy" width="45px" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />
 <img align="left" alt="pandas" width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCDD7q7wCVdRNtROzgtARnDThPmab6k2x7Q&usqp=CAU" />
 <img align="left" alt="scikit-learn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Flask" width="45px" src="https://user-images.githubusercontent.com/567298/52816968-216f6480-30ab-11e9-9d19-6418ba51563b.png" />
